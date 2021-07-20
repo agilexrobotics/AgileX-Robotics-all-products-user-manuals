@@ -4,7 +4,7 @@
 
 **松灵机器人致力于打造一流的智能制造、智能工业等基础设施，从而实现“让智能机器人进一步解放人类生产力”的伟大愿景。**
 
-<img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\agilex.io\image\image-20210720181547923.png" alt="image-20210720181547923" style="zoom:200%;" />
+<img src="https://github.com/agilexrobotics/agilex.io/blob/master/image/image-20210720181547923.png" alt="image-20210720181547923" style="zoom:200%;" />
 
 ------
 
