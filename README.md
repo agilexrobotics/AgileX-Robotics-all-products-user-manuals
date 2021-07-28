@@ -14,12 +14,12 @@
 | -------------------- | :----------------------------------------------------------: | -------- | ------------------------------ |
 | SCOUT 1.0            | <img src="/image/SCOUT%201.0.png" style="zoom: 10%;" /> | 2018.12  | 已经停止生产，技术支持继续维护 |
 | HUNTER 1.0           | <img src="image/HUNTER1_0.png" style="zoom:80%;" /> | 2019.3   | 已经停止生产，技术支持继续维护 |
-| SCOUT mini(越野板)   | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\scout mini.png" alt="image-20210728155819417" style="zoom:25%;" /> | 2019.12  |                                |
-| SCOUT mini(麦轮版本) | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\scout mini_omni.png" alt="image-20210728160158636" style="zoom: 25%;" /> | 2019.12  |                                |
-| BUNKER               | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\bunker" alt="image-20210728160419520" style="zoom: 25%;" /> |          |                                |
+| SCOUT mini(越野板)   | <img src="image/scout%20mini.png"  style="zoom:25%;" /> | 2019.12  |                                |
+| SCOUT mini(麦轮版本) | <img src="image/scout%20mini_omni.png" style="zoom: 25%;" /> | 2019.12  |                                |
+| BUNKER               | <img src="image/bunker" style="zoom: 25%;" /> |          |                                |
 | SCOUT 2.0            | <img src="C:\Users\zhiqiang.xie\AppData\Roaming\Typora\typora-user-images\image-20210728160822505.png" alt="image-20210728160822505" style="zoom: 25%;" /> |          |                                |
-| HUNTER 2.0           | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\hunter2" alt="image-20210728161740053" style="zoom:25%;" /> |          |                                |
-| Ranger MINI          | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\rangermini" alt="image-20210728161834867" style="zoom:25%;" /> |          |                                |
+| HUNTER 2.0           | <img src="image/hunter2" style="zoom:25%;" /> |          |                                |
+| Ranger MINI          | <img src="/image/rangermini" alt="image-20210728161834867" style="zoom:25%;" /> |          |                                |
 | TRACER               |                                                              |          |                                |
 
 
@@ -49,7 +49,7 @@ support@agilex.ai
 手机：19925374409  （周末及节假日）
 微信：松灵机器人（可扫描以下二维码添加好友）
 
-![image.png](C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\qr_code)
+![image.png](/image/qr_code)
 
 
 
