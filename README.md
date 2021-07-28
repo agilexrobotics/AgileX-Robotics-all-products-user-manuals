@@ -8,9 +8,61 @@
 
 ------
 
+# 松灵机器人产品发布时间标
+
+| 产品名字             |                           产品图片                           | 发布时间 | 当前维护状态                   |
+| -------------------- | :----------------------------------------------------------: | -------- | ------------------------------ |
+| SCOUT 1.0            | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\SCOUT 1.0.png" style="zoom: 33%;" /> | 2018.12  | 已经停止生产，技术支持继续维护 |
+| HUNTER 1.0           | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\HUNTER1_0.png" alt="image-20210728155842527" style="zoom:80%;" /> | 2019.3   | 已经停止生产，技术支持继续维护 |
+| SCOUT mini(越野板)   | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\scout mini.png" alt="image-20210728155819417" style="zoom:25%;" /> | 2019.12  |                                |
+| SCOUT mini(麦轮版本) | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\scout mini_omni.png" alt="image-20210728160158636" style="zoom: 25%;" /> | 2019.12  |                                |
+| BUNKER               | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\bunker" alt="image-20210728160419520" style="zoom: 25%;" /> |          |                                |
+| SCOUT 2.0            | <img src="C:\Users\zhiqiang.xie\AppData\Roaming\Typora\typora-user-images\image-20210728160822505.png" alt="image-20210728160822505" style="zoom: 25%;" /> |          |                                |
+| HUNTER 2.0           | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\hunter2" alt="image-20210728161740053" style="zoom:25%;" /> |          |                                |
+| Ranger MINI          | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\rangermini" alt="image-20210728161834867" style="zoom:25%;" /> |          |                                |
+| TRACER               |                                                              |          |                                |
+
+
+
+
+
+
 
 # 用户手册列表
 
 * [松灵机器人产品割草车CLEAR_Quick_Start](https://agilexrobotics.gitbook.io/agilex/)
 
 * [松灵机器人产品AutoPoilt 套件用户手册](https://agilexrobotics.gitbook.io/clear-yong-hu-shou-ce/)
+
+
+
+# 联系我们
+
+#### 技术咨询与支持
+
+support@agilex.ai
+
+#### 产品咨询
+
+邮箱：sales@agilex.ai
+电话：0769-22892150（周一至周五）
+手机：19925374409  （周末及节假日）
+微信：松灵机器人（可扫描以下二维码添加好友）
+
+![image.png](C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\qr_code)
+
+
+
+#### 市场推广
+
+marketing@agilex.ai
+
+#### 加入我们
+
+hr@agilex.ai
+
+#### 公司地址
+
+东莞公司地址：东莞市松山湖中小企业创业园10栋1楼
+
+深圳公司地址：深圳西丽大学城平山民企科技园1栋A座3层305室
