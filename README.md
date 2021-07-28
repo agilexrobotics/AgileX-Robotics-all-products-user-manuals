@@ -1,4 +1,4 @@
-# Agilex IO
+# Agilex Product user mansal 
 
 松灵机器人有限公司成立于2016年，是国内领先的机器人底盘制造商和移动机器人系统解决方案服务商。 目前，松灵机器人已经拥有通用型UGV、室内小型AGV、线控改装电动车等移动机器人底盘产品，可服务于安防巡检、园区工业、农业灌溉、物流运输、检测勘探、科研教育等各个领域，为全球不同地区的客户提供性能稳定、质量可靠、7*24h售后无忧的可靠服务。
 
@@ -13,3 +13,4 @@
 
 * [松灵机器人产品割草车CLEAR_Quick_Start](https://agilexrobotics.gitbook.io/agilex/)
 
+* [松灵机器人产品AutoPoilt 套件用户手册](https://agilexrobotics.gitbook.io/clear-yong-hu-shou-ce/)
