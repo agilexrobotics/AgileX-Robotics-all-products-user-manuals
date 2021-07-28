@@ -13,11 +13,11 @@
 | 产品名字             |                           产品图片                           | 发布时间 | 当前维护状态                   |
 | -------------------- | :----------------------------------------------------------: | -------- | ------------------------------ |
 | SCOUT 1.0            |   <img src="/image/SCOUT%201.0.png" style="zoom: 10%;" />    | 2018.12  | 已经停止生产，技术支持继续维护 |
-| HUNTER 1.0           |     <img src="image/HUNTER1_0.png" style="zoom:30%;" />      | 2019.3   | 已经停止生产，技术支持继续维护 |
-| SCOUT mini(越野板)   |   <img src="image/scout%20mini.png"  style="zoom:10%;" />    | 2019.12  |                                |
-| SCOUT mini(麦轮版本) | <img src="image/scout%20mini_omni.png" style="zoom: 10%;" /> | 2019.12  |                                |
-| BUNKER               |      <img src="image/bunker.png" style="zoom: 10%;" />       |          |                                |
-| SCOUT 2.0            |      <img src="image/scout2.png"  style="zoom: 10%;" />      |          |                                |
+| HUNTER 1.0           |     <img src="/image/HUNTER1_0.png" style="zoom:30%;" />      | 2019.3   | 已经停止生产，技术支持继续维护 |
+| SCOUT mini(越野板)   |   <img src="/image/scout%20mini.png"  style="zoom:10%;" />    | 2019.12  |                                |
+| SCOUT mini(麦轮版本) | <img src="/image/scout%20mini_omni.png" style="zoom: 10%;" /> | 2019.12  |                                |
+| BUNKER               |      <img src="/image/bunker.png" style="zoom: 10%;" />       |          |                                |
+| SCOUT 2.0            |      <img src="/image/scout2.png"  style="zoom: 10%;" />      |          |                                |
 | HUNTER 2.0           |      <img src="/image/hunter2.png" style="zoom:25%;" />      |          |                                |
 | Ranger MINI          |    <img src="/image/rangermini.png"  style="zoom:25%;" />    |          |                                |
 | TRACER               |                                                              |          |                                |
@@ -51,7 +51,7 @@ support@agilex.ai
 微信：松灵机器人（可扫描以下二维码添加好友）
 ---
 
-![image.png](/image/qr_code)
+![image.png](/image/qr_code.png)
 
 
 
