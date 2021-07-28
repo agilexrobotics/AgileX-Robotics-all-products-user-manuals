@@ -35,7 +35,7 @@
 * [松灵机器人产品AutoPoilt 套件用户手册](https://agilexrobotics.gitbook.io/clear-yong-hu-shou-ce/)
 
 
-# 开发套件用户手册（comeing soon）
+# 开发套件用户手册（coming soon）
 
 # 联系我们
 
