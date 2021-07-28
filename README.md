@@ -16,10 +16,10 @@
 | HUNTER 1.0           |     <img src="image/HUNTER1_0.png" style="zoom:80%;" />      | 2019.3   | 已经停止生产，技术支持继续维护 |
 | SCOUT mini(越野板)   |   <img src="image/scout%20mini.png"  style="zoom:10%;" />    | 2019.12  |                                |
 | SCOUT mini(麦轮版本) | <img src="image/scout%20mini_omni.png" style="zoom: 10%;" /> | 2019.12  |                                |
-| BUNKER               | <img src="image/bunker" style="zoom: 10%;" /> |          |                                |
+| BUNKER               | <img src="image/bunker.png" style="zoom: 10%;" /> |          |                                |
 | SCOUT 2.0            | <img src="image/scout2.img"  style="zoom: 10%;" /> |          |                                |
-| HUNTER 2.0           |        <img src="/image/hunter2" style="zoom:25%;" />         |          |                                |
-| Ranger MINI          |      <img src="/image/rangermini"  style="zoom:25%;" />      |          |                                |
+| HUNTER 2.0           |        <img src="/image/hunter2.png" style="zoom:25%;" />         |          |                                |
+| Ranger MINI          |      <img src="/image/rangermini.png"  style="zoom:25%;" />      |          |                                |
 | TRACER               |                                                              |          |                                |
 
 
