@@ -17,7 +17,7 @@
 | SCOUT mini(越野板)   |   <img src="image/scout%20mini.png"  style="zoom:10%;" />    | 2019.12  |                                |
 | SCOUT mini(麦轮版本) | <img src="image/scout%20mini_omni.png" style="zoom: 10%;" /> | 2019.12  |                                |
 | BUNKER               | <img src="image/bunker.png" style="zoom: 10%;" /> |          |                                |
-| SCOUT 2.0            | <img src="image/scout2.img"  style="zoom: 10%;" /> |          |                                |
+| SCOUT 2.0            | <img src="image/scout2.png"  style="zoom: 10%;" /> |          |                                |
 | HUNTER 2.0           |        <img src="/image/hunter2.png" style="zoom:25%;" />         |          |                                |
 | Ranger MINI          |      <img src="/image/rangermini.png"  style="zoom:25%;" />      |          |                                |
 | TRACER               |                                                              |          |                                |
@@ -43,11 +43,12 @@
 support@agilex.ai
 
 #### 产品咨询
-
+---
 邮箱：sales@agilex.ai
 电话：0769-22892150（周一至周五）
 手机：19925374409  （周末及节假日）
 微信：松灵机器人（可扫描以下二维码添加好友）
+---
 
 ![image.png](/image/qr_code)
 
