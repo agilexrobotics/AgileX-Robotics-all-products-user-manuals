@@ -12,7 +12,7 @@
 
 | 产品名字             |                           产品图片                           | 发布时间 | 当前维护状态                   |
 | -------------------- | :----------------------------------------------------------: | -------- | ------------------------------ |
-| SCOUT 1.0            | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\SCOUT 1.0.png" style="zoom: 33%;" /> | 2018.12  | 已经停止生产，技术支持继续维护 |
+| SCOUT 1.0            | <img src="/image/SCOUT%201.0.png" style="zoom: 33%;" /> | 2018.12  | 已经停止生产，技术支持继续维护 |
 | HUNTER 1.0           | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\HUNTER1_0.png" alt="image-20210728155842527" style="zoom:80%;" /> | 2019.3   | 已经停止生产，技术支持继续维护 |
 | SCOUT mini(越野板)   | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\scout mini.png" alt="image-20210728155819417" style="zoom:25%;" /> | 2019.12  |                                |
 | SCOUT mini(麦轮版本) | <img src="C:\Users\zhiqiang.xie\Desktop\AgileX\Code\Agile-Product-UserManual\image\scout mini_omni.png" alt="image-20210728160158636" style="zoom: 25%;" /> | 2019.12  |                                |
