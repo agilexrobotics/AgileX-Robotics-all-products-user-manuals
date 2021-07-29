@@ -1,4 +1,4 @@
-# Agilex Product user manual 
+# Agilex Product User Manual 
 
 松灵机器人成立于2016年,是全球领先的移动机器人底盘制造商和移动机器人系统解决方案提供服务商。公司创始团队和研发团队来自大疆和Mathworks等领军企业和知名科研学府，由李泽湘教授孵化，获得红杉、五源、祥峰亿级投资。
 
@@ -39,6 +39,19 @@
 - [松灵机器人产品AutoPoilt 套件用户手册](https://agilexrobotics.gitbook.io/clear-yong-hu-shou-ce/)
 
 # 客户案例
+
+
+
+# 技术博客汇总
+
+- [松灵机器人CSDN官方博客](https://blog.csdn.net/AgileX)
+- [松灵机器人SCOUT的ROS代码架构](https://blog.csdn.net/a850565178/article/details/106427019?spm=1001.2014.3001.5501)
+- [松灵机器人 SCOUT的ROS代码架构---CAN通信](https://blog.csdn.net/hltt3838/article/details/108603203?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control)
+- [线控小车底盘松灵SCOUT+激光雷达实现基于cartographer的室内小车导航实现攻略教程](https://blog.csdn.net/l494924841/article/details/109407046?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-17.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-17.control)
+
+# 视频资料/信息汇总
+
+- [松灵机器人官方B站](https://space.bilibili.com/484123810?spm_id_from=333.788.b_765f7570696e666f.1)
 
 
 
