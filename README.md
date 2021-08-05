@@ -27,18 +27,17 @@
 # 标准底盘产品用户手册列表
 
 * [松灵机器人产品割草车CLEAR_Quick_Start](https://agilexrobotics.gitbook.io/agilex/)
-* 松灵机器人产品SCOUT 2.0用户手册（coming soon）
+* [松灵机器人产品SCOUT 2.0用户手册](https://agilexrobotics.gitbook.io/scout/)
 * 松灵机器人产品HUNTER 2.0用户手册（coming soon）
 * 松灵机器人产品BUNKER 用户手册（coming soon）
 * 松灵机器人产品SCOUT MINI用户手册（coming soon）
 * 松灵机器人产品RANGER MINI用户手册（coming soon）
 
 
-# 开发套件用户手册（coming soon）
+# 开发套件用户手册
 
 - [松灵机器人产品AutoPoilt 套件用户手册](https://agilexrobotics.gitbook.io/clear-yong-hu-shou-ce/)
-
-# 客户案例
+- 松灵机器人产品Autoware套件用户手册（Coming soon）
 
 
 
