@@ -31,8 +31,8 @@
 * [松灵机器人产品SCOUT 2.0用户手册](https://agilexrobotics.gitbook.io/scout/)
 * [松灵机器人产品HUNTER 2.0用户手册](https://agilexrobotics.gitbook.io/hunter-2-0/6-chan-pin-chi-cun-product-dimensions)
 * 松灵机器人产品BUNKER 用户手册（coming soon）
-* 松灵机器人产品SCOUT MINI用户手册（coming soon）
-* 松灵机器人产品RANGER MINI用户手册（coming soon）
+* [松灵机器人产品SCOUT MINI用户手册](https://agilexrobotics.gitbook.io/scout_mini/)
+* [松灵机器人产品RANGER MINI用户手册](https://agilexrobotics.gitbook.io/ranger-mini/)
 * 松灵机器人产品LIMO用户手册（coming soon）
 
 
