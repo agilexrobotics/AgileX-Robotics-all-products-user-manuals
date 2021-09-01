@@ -1,4 +1,4 @@
-# Agilex Product User Manual 
+# AgileX Robotics Product User Manual 
 
 [中文（用户指南）](https://github.com/agilexrobotics/Agile-Product-UserGuide/blob/master/UserGuider_CN.md) | [English (User Guider)](https://github.com/agilexrobotics/Agile-Product-UserGuide/blob/master/UserGuider_EN.md)
 
