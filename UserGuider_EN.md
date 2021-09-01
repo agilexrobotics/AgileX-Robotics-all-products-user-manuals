@@ -82,6 +82,7 @@ The company’s core teams come from leading companies such as DJI and Mathworks
 
 - Email: sales@agilex.ai
 - Tel: +86-769-22892150 （Monday-Friday)
+- [LinkedIn](https://www.linkedin.com/company/35921611)
 
 #### Marketing&PR team
 
