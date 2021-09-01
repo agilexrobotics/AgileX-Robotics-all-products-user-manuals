@@ -31,19 +31,19 @@ The company’s core teams come from leading companies such as DJI and Mathworks
 
 # List of user manuals for AgileX standard mobile chassis
 
-* [Lawn mower CLEAR_Quick_Start](https://agilexrobotics.gitbook.io/agilex/)
-* [SCOUT 2.0 User Manual](https://agilexrobotics.gitbook.io/scout/)
-* [HUNTER 2.0 User Manual](https://agilexrobotics.gitbook.io/hunter-2-0/6-chan-pin-chi-cun-product-dimensions)
+* Lawn mower CLEAR_Quick_Start（coming soon）
+* SCOUT 2.0 User Manual（coming soon）
+* HUNTER 2.0 User Manual（coming soon）
 * BUNKER User Manual（coming soon）
-* [SCOUT MINI User Manual](https://agilexrobotics.gitbook.io/scout_mini/)
-* [RANGER MINI User Manual](https://agilexrobotics.gitbook.io/ranger-mini/)
+* SCOUT MINI User Manual（coming soon）
+* RANGER MINI User Manual（coming soon）
 * LIMO User Manual (coming soon)
 * TRACER User Manual (coming soon)
 
 
 # User Manual Of AgileX Robotics Development K
 
-- [AutoPoilt Kit User Manual](https://agilexrobotics.gitbook.io/clear-yong-hu-shou-ce/)
+- AutoPoilt Kit User Manual（coming soon）
 - Autoware User Manual（Coming soon）
 
 
@@ -63,7 +63,7 @@ The company’s core teams come from leading companies such as DJI and Mathworks
 # **Video&information List**
 
 - [AgileX Robotics BiliBili](https://space.bilibili.com/484123810?spm_id_from=333.788.b_765f7570696e666f.1)
-- AgileX Robotics Youtube 
+- A[gileX Robotics Youtube](https://www.youtube.com/channel/UCm4KH9QLZvkp02-23z3YbjQ) 
 
 
 
@@ -81,23 +81,17 @@ The company’s core teams come from leading companies such as DJI and Mathworks
 #### **Product Inquiry**
 
 - Email: sales@agilex.ai
-- Tel: 0769-22892150 (Monday to Friday)
-- Mobile phone: 19925374409 (weekends and holidays)
+- Tel: + 86 0769-22892150 (Monday to Friday)
+- Mobile phone: +86 19925374409 (weekends and holidays)
 - WeChat: AgileX Robotics (scan the below QR codes)
 
 ![image.png](/image/qr_code.png)
-
-
 
 #### Marketing&PR team
 
 marketing@agilex.ai
 
-
-
 Join us: [hr@agilex.ai](mailto:hr@agilex.ai)
-
-
 
 #### **company address**
 
