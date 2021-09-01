@@ -1,4 +1,4 @@
-# [Agilex Robotics](https://www.agilex.ai/?lang=zh-cn) Product User Guider
+# [ AgileX Robotics All Products User Guide](https://www.agilex.ai/?lang=zh-cn) 
 
 [中文（用户指南）](https://github.com/agilexrobotics/Agile-Product-UserGuide/blob/master/UserGuider_CN.md)|  [English (User Guide)]()
 
@@ -76,16 +76,12 @@ The company’s core teams come from leading companies such as DJI and Mathworks
 
 # **contact us**
 
-#### **Technical Support: [support@agilex.ai](mailto:support@agilex.ai)**
+#### **Technical Support: [support1@agilex.ai](mailto:support1@agilex.ai)**
 
 #### **Product Inquiry**
 
 - Email: sales@agilex.ai
-- Tel: + 86 0769-22892150 (Monday to Friday)
-- Mobile phone: +86 19925374409 (weekends and holidays)
-- WeChat: AgileX Robotics (scan the below QR codes)
-
-![image.png](/image/qr_code.png)
+- Tel: +86-769-22892150 （Monday-Friday)
 
 #### Marketing&PR team
 
