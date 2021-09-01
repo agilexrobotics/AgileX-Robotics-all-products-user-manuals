@@ -41,38 +41,21 @@ The company’s core teams come from leading companies such as DJI and Mathworks
 * TRACER User Manual (coming soon)
 
 
-# User Manual Of AgileX Robotics Development K
+# User Manual Of AgileX Robotics Development Kit
 
 - AutoPoilt Kit User Manual（coming soon）
 - Autoware User Manual（Coming soon）
 
-
-
-# **Tech Blog List**
-
-- [Official Blog On CSDN](https://blog.csdn.net/AgileX)
-
-- [SCOUT's ROS framework code](https://blog.csdn.net/a850565178/article/details/106427019?spm=1001.2014.3001.5501)
-
-- [SCOUT's ROS framework code---CAN communication](https://blog.csdn.net/hltt3838/article/details/108603203?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control)
-
-- [Tutorial for achieving navigation for the cartographer-based indoor car by using AgileX SCOUT and LiDAR](https://blog.csdn.net/l494924841/article/details/109407046?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-17.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-17.control)
-
-  
-
 # **Video&information List**
 
 - [AgileX Robotics BiliBili](https://space.bilibili.com/484123810?spm_id_from=333.788.b_765f7570696e666f.1)
-- A[gileX Robotics Youtube](https://www.youtube.com/channel/UCm4KH9QLZvkp02-23z3YbjQ) 
-
-
+- [AgileX Robotics Youtube](https://www.youtube.com/channel/UCm4KH9QLZvkp02-23z3YbjQ) 
+- [LinkedIn](https://www.linkedin.com/company/35921611)
 
 # **Solutions of common problems**
 
 - Remote control drifting problem (coming soon)
 - SDK development and testing (coming soon)
-
-
 
 # **contact us**
 
@@ -82,7 +65,7 @@ The company’s core teams come from leading companies such as DJI and Mathworks
 
 - Email: sales@agilex.ai
 - Tel: +86-769-22892150 （Monday-Friday)
-- [LinkedIn](https://www.linkedin.com/company/35921611)
+- [LinkedIn](https://www.linkedin.com/company/35921611)x
 
 #### Marketing&PR team
 
