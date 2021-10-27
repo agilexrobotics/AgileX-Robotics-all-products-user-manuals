@@ -1,10 +1,4 @@
-# AgileX Robotics Product User Manual 
-
-[中文（用户指南）](https://github.com/agilexrobotics/Agile-Product-UserGuide/blob/master/UserGuider_CN.md) | [English (User Guider)](https://github.com/agilexrobotics/Agile-Product-UserGuide/blob/master/UserGuider_EN.md)
-
-------
-
-# 松灵机器人公司简介
+# [松灵机器人](https://www.agilex.ai/?lang=zh-cn)产品用户开发指导手册
 
 松灵机器人成立于2016年,是全球领先的移动机器人底盘制造商和移动机器人系统解决方案提供服务商。公司创始团队和研发团队来自大疆和Mathworks等领军企业和知名科研学府，由李泽湘教授孵化，获得红杉、五源、祥峰亿级投资。
 
@@ -36,11 +30,10 @@
 * [松灵机器人产品割草车CLEAR_Quick_Start](https://agilexrobotics.gitbook.io/agilex/)
 * [松灵机器人产品SCOUT 2.0用户手册](https://agilexrobotics.gitbook.io/scout/)
 * [松灵机器人产品HUNTER 2.0用户手册](https://agilexrobotics.gitbook.io/hunter-2-0/6-chan-pin-chi-cun-product-dimensions)
-* [松灵机器人产品BUNKER 用户手册](https://agilexrobotics.gitbook.io/bunker/)
+* 松灵机器人产品BUNKER 用户手册（coming soon）
 * [松灵机器人产品SCOUT MINI用户手册](https://agilexrobotics.gitbook.io/scout_mini/)
 * [松灵机器人产品RANGER MINI用户手册](https://agilexrobotics.gitbook.io/ranger-mini/)
 * 松灵机器人产品LIMO用户手册（coming soon）
-* 松灵机器人产品TRACER用户手册（coming soon）
 
 
 # 开发套件用户手册
@@ -48,6 +41,23 @@
 - [松灵机器人产品AutoPoilt 套件用户手册](https://agilexrobotics.gitbook.io/clear-yong-hu-shou-ce/)
 - 松灵机器人产品Autoware套件用户手册（Coming soon）
 
+# 仿真支持
+
+- ​	[Gazebo 仿真](https://github.com/agilexrobotics/ugv_gazebo_sim)
+
+  当前支持Gazebo的仿真支持列表
+
+  | Product name     | support status |
+  | :--------------- | -------------- |
+  | SCOUT 1.0×       | ×              |
+  | HUNTER 1.0       | ×              |
+  | SCOUT 2.0        | √              |
+  | HUNTER 2.0       | √              |
+  | SCOUT MINI       | √              |
+  | SCOUT MINI(OMNI) | ×              |
+  | TRACER           | √              |
+  | RANGER MINI      | √              |
+  | LIMO             | √              |
 
 
 # 技术博客汇总
@@ -77,6 +87,7 @@
 support@agilex.ai
 
 #### 产品咨询
+
 - 邮箱：sales@agilex.ai
 - 电话：0769-22892150（周一至周五）
 - 手机：19925374409  （周末及节假日）
