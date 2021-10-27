@@ -41,6 +41,23 @@
 - [松灵机器人产品AutoPoilt 套件用户手册](https://agilexrobotics.gitbook.io/clear-yong-hu-shou-ce/)
 - 松灵机器人产品Autoware套件用户手册（Coming soon）
 
+# 仿真支持
+
+- ​	[Gazebo 仿真](https://github.com/agilexrobotics/ugv_gazebo_sim)
+
+  当前支持Gazebo的仿真支持列表
+
+  | Product name     | support status |
+  | :--------------- | -------------- |
+  | SCOUT 1.0×       | ×              |
+  | HUNTER 1.0       | ×              |
+  | SCOUT 2.0        | √              |
+  | HUNTER 2.0       | √              |
+  | SCOUT MINI       | √              |
+  | SCOUT MINI(OMNI) | ×              |
+  | TRACER           | √              |
+  | RANGER MINI      | √              |
+  | LIMO             | √              |
 
 
 # 技术博客汇总
