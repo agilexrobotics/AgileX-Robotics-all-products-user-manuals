@@ -32,19 +32,20 @@ The company’s core teams come from leading companies such as DJI and Mathworks
 # List of user manuals for AgileX standard mobile chassis
 
 * Lawn mower CLEAR_Quick_Start（coming soon）
-* SCOUT 2.0 User Manual（coming soon）
-* HUNTER 2.0 User Manual（coming soon）
-* BUNKER User Manual（coming soon）
-* SCOUT MINI User Manual（coming soon）
+* [SCOUT 2.0 User Manual](https://agilexrobotics.gitbook.io/scout2.0/)
+* [HUNTER 2.0 User Manual](https://agilexrobotics.gitbook.io/hunter-2.0/)
+* [BUNKER User Manual](https://agilexrobotics.gitbook.io/bunker-1/)
+* [SCOUT MINI User Manual](https://agilexrobotics.gitbook.io/scout-mini/)
 * RANGER MINI User Manual（coming soon）
 * LIMO User Manual (coming soon)
-* TRACER User Manual (coming soon)
+* [TRACER User Manual](https://agilexrobotics.gitbook.io/tracer/) 
 
 
 # User Manual Of AgileX Robotics Development Kit
 
-- AutoPoilt Kit User Manual（coming soon）
+- [AutoPoilt Kit User Manual](https://agilexrobotics.gitbook.io/autopilot-kit-introduction/)
 - Autoware User Manual（Coming soon）
+- [SCOUT MINI Lite/Pro Edu Kit](https://agilexrobotics.gitbook.io/scout-mini-lite-and-pro/)
 
 # **Video&information List**
 
