@@ -1,6 +1,6 @@
 # [ AgileX Robotics All Products User Guide](https://www.agilex.ai/?lang=zh-cn) 
 
-[中文（用户指南）](https://github.com/agilexrobotics/Agile-Product-UserGuide/blob/master/UserGuider_CN.md)|  [English (User Guide)]()
+[中文（用户指南）](https://github.com/agilexrobotics/Agile-Product-UserGuide/blob/master/UserGuider_CN.md)|  [English (User Guide)](https://github.com/agilexrobotics/AgileX-Robotics-all-products-user-manuals/blob/master/UserGuider_EN.md)
 
 # ABOUT  AGILX
 
