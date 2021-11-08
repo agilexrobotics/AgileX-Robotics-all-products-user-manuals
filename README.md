@@ -1,6 +1,6 @@
 # [松灵机器人](https://www.agilex.ai/?lang=zh-cn)产品用户开发指导手册
 
-[中文（用户指南）](https://github.com/agilexrobotics/Agile-Product-UserGuide/blob/master/UserGuider_CN.md)|  [English (User Guide)]()
+[中文（用户指南）](https://github.com/agilexrobotics/Agile-Product-UserGuide/blob/master/UserGuider_CN.md)|  [English (User Guide)](https://github.com/agilexrobotics/AgileX-Robotics-all-products-user-manuals/blob/master/UserGuider_EN.md)
 
 松灵机器人成立于2016年,是全球领先的移动机器人底盘制造商和移动机器人系统解决方案提供服务商。公司创始团队和研发团队来自大疆和Mathworks等领军企业和知名科研学府，由李泽湘教授孵化，获得红杉、五源、祥峰亿级投资。
 
