@@ -1,10 +1,18 @@
 # [松灵机器人](https://www.agilex.ai/?lang=zh-cn)产品用户开发指导手册
 
+[中文（用户指南）](https://github.com/agilexrobotics/Agile-Product-UserGuide/blob/master/UserGuider_CN.md)|  [English (User Guide)]()
+
 松灵机器人成立于2016年,是全球领先的移动机器人底盘制造商和移动机器人系统解决方案提供服务商。公司创始团队和研发团队来自大疆和Mathworks等领军企业和知名科研学府，由李泽湘教授孵化，获得红杉、五源、祥峰亿级投资。
 
 以市场为导向，松灵机器人自主开发的多模态轮式和履带式底盘已实现行业全矩阵覆盖，多款产品获得了CE认证。同时，松灵机器人提供了自动驾驶和平行驾驶解决方案，机器人科研教育套件等配套方案，帮助客户在自动驾驶、机械控制等领域完成实验验证。
 
 凭借领先的研发技术，松灵机器人的产品已覆盖阿里巴巴、华为、本田、中建三局在内的1000+企业级客户,并和中科院、卡耐基梅隆大学、清华大学、纽约大学等全球50多所顶级学府达成深度合作。
+
+Founded in 2016, AgileX Robotics is a leading mobile robot chassis and customized unmanned driving solution provider with a vision to enable all industries to improve productivity and efficiency through robot technology.
+
+AgileX Robotics has developed a full line-up of industry-leading robotics chassis that fully meet all industries requirements, including general UGV, indoor AGV, tracked chassis and many of them obtained CE certification. Back by mature software capabilities, Agilex Robotics also provides customized autonomous driving solutions, including parallel driving solutions, robot R&D kits, mobile manipulator, and autopilot kit to enable customers to accelerate the development and verification of their autonomous driving and robotics projects.
+
+The company’s core teams come from leading companies such as DJI and Mathworks and well-known scientific research institutions. With the in-depth cooperation with over a thousand enterprises including Alibaba, Huawei, Honda, the China Construction Third Engineering Bureau, and over fifty global top universities, AgileX Robotics has deployed more than one thousand applications in a range of industries purposes including autonomous driving, academic research, agriculture management, geographic surveying industries, and more.。
 
 <img src="https://github.com/agilexrobotics/agilex.io/blob/master/image/image-20210720181547923.png" alt="image-20210720181547923" style="zoom:200%;" />
 
