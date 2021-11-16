@@ -82,6 +82,34 @@ The company’s core teams come from leading companies such as DJI and Mathworks
   |      Tracer       |      -      |      √      |     Active     |
   |    Ranger Mini    |      -      |      ×      |  Coming soon   |
 
+- ROS1
+
+  |       Robot       | Protocol V1 | Protocol V2 | Support Status | links |
+  | :---------------: | :---------: | :---------: | :------------: | ----- |
+  |     Scout 1.0     |      ×      |      -      |  Discontinued  |       |
+  |     Scout 2.0     |      ×      |      √      |     Active     |       |
+  | Scout Mini (Skid) |      ×      |      √      |     Active     |       |
+  | Scout Mini (Omni) |      ×      |      ×      |  Coming soon   |       |
+  |    Hunter 1.0     |      ×      |      ×      |  Coming soon   |       |
+  |    Hunter 2.0     |      -      |      ×      |  Coming soon   |       |
+  |      Bunker       |      ×      |             |     Active     |       |
+  |      Tracer       |      -      |      √      |     Active     |       |
+  |    Ranger Mini    |      -      |      ×      |  Coming soon   |       |
+
+- ROS 2
+
+|                           Robot                           | Protocol V1 | Protocol V2 | Support Status | links |
+| :-------------------------------------------------------: | :---------: | :---------: | :------------: | ----- |
+|                         Scout 1.0                         |      ×      |      -      |  Discontinued  |       |
+| [Scout 2.0](https://github.com/agilexrobotics/scout_ros2) |      ×      |      √      |     Active     |       |
+|                     Scout Mini (Skid)                     |      ×      |      √      |  Coming soon   |       |
+|                     Scout Mini (Omni)                     |      ×      |      ×      |  Coming soon   |       |
+|                        Hunter 1.0                         |      ×      |      ×      |  Coming soon   |       |
+|                        Hunter 2.0                         |      -      |      ×      |  Coming soon   |       |
+|                          Bunker                           |      ×      |             |  Coming soon   |       |
+|                          Tracer                           |      -      |      √      |  Coming soon   |       |
+|                        Ranger Mini                        |      -      |      ×      |  Coming soon   |       |
+
 # 仿真支持
 
 - ​	[Gazebo 仿真](https://github.com/agilexrobotics/ugv_gazebo_sim)
