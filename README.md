@@ -144,7 +144,7 @@ The company’s core teams come from leading companies such as DJI and Mathworks
 
 # 常见问题的处理
 
-- 遥控器漂移问题的处理（coming soon）
+- [遥控器漂移问题的处理](https://agilexrobotics.gitbook.io/1/)
 - SDK的开发和测试（coming soon）
 
 
