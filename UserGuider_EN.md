@@ -39,6 +39,7 @@ The company’s core teams come from leading companies such as DJI and Mathworks
 * RANGER MINI User Manual（coming soon）
 * LIMO User Manual (coming soon)
 * [TRACER User Manual](https://agilexrobotics.gitbook.io/tracer/) 
+* [BUNKER PRO User Manual](https://agilexrobotics.gitbook.io/bunker-pro-2/) 
 
 
 # User Manual Of AgileX Robotics Development Kit
