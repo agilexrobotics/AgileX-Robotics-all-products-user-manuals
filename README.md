@@ -47,7 +47,7 @@ The company’s core teams come from leading companies such as DJI and Mathworks
 
 # 开发套件用户手册
 
-- [松灵机器人产品AutoPoilt 套件用户手册](https://agilexrobotics.gitbook.io/clear-yong-hu-shou-ce/)
+- [松灵机器人产品AutoPoilt 套件用户手册](https://autopilot-user-manual.readthedocs.io/zh_CN/latest/index.html)
 - 松灵机器人产品Autoware套件用户手册（Coming soon）
 
 # 开发驱动支持
