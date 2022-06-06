@@ -42,7 +42,7 @@ The company’s core teams come from leading companies such as DJI and Mathworks
 * [松灵机器人产品BUNKER PRO用户手册](https://agilexrobotics.gitbook.io/bunker-pro/)
 * [松灵机器人产品SCOUT MINI用户手册](https://agilexrobotics.gitbook.io/scout_mini/)
 * [松灵机器人产品RANGER MINI用户手册](https://agilexrobotics.gitbook.io/ranger-mini/)
-* 松灵机器人产品LIMO用户手册（coming soon）
+* [松灵机器人产品LIMO用户手册](https://github.com/agilexrobotics/limo-doc/）
 
 
 # 开发套件用户手册
