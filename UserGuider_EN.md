@@ -77,5 +77,5 @@ Join us: [hr@agilex.ai](mailto:hr@agilex.ai)
 
 #### **company address**
 
-- Dongguan office: 1st floor, building 10, SME Pioneer Park, Songshan Lake, Dongguan City, Guangdong Province
-- Shenzhen Office: Room 305, 3rd Floor, Block A, Building 1, Pingshan Private Enterprise Science and Technology Park, Xili University Town, Shenzhen
+- Main Office: Nanshan iPark, No. 1001 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong 518000, China
+- Dongguan Office: Main R&D Building, Building 1, XBOT PARK, No. 11 Songshan University Road, Songshan Lake, Dongguan, Guangdong, China
